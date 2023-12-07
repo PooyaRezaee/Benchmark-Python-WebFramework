@@ -1,0 +1,111 @@
+Target URL:          http://127.0.0.1:5000/
+Max requests:        100
+Concurrency level:   1
+Agent:               none
+Completed requests:  100
+Total errors:        0
+Total time:          0.617706 s
+Requests per second: 162
+Mean latency:        6.1 ms
+Percentage of the requests served within a certain time
+ 50%      5 ms
+ 90%      7 ms
+ 95%      8 ms
+ 99%      39 ms
+100%      39 ms (longest request)
+
+-------------------------------------------------------
+
+Target URL:          http://127.0.0.1:7000/
+Max requests:        100
+Concurrency level:   1
+Agent:               none
+Completed requests:  100
+Total errors:        0
+Total time:          0.499959 s
+Requests per second: 200
+Mean latency:        4.9 ms
+Percentage of the requests served within a certain time
+ 50%      4 ms
+ 90%      6 ms
+ 95%      7 ms
+ 99%      36 ms
+100%      36 ms (longest request)
+
+-------------------------------------------------------
+
+Target URL:          http://127.0.0.1:8000/
+Max requests:        100
+Concurrency level:   1
+Agent:               none
+Completed requests:  100
+Total errors:        0
+Total time:          1.1418335 s
+Requests per second: 88
+Mean latency:        11.3 ms
+Percentage of the requests served within a certain time
+ 50%      10 ms
+ 90%      13 ms
+ 95%      13 ms
+ 99%      42 ms
+100%      42 ms (longest request)
+
+=======================================================
+
+Target URL:          http://127.0.0.1:5000/
+Max requests:        7000
+Concurrency level:   1
+Agent:               none
+
+Completed requests:  7000
+Total errors:        0
+Total time:          42.2427795 s
+Requests per second: 166
+Mean latency:        5.9 ms
+
+Percentage of the requests served within a certain time
+ 50%      5 ms
+ 90%      7 ms
+ 95%      8 ms
+ 99%      12 ms
+100%      41 ms (longest request)
+
+-------------------------------------------------------
+
+Target URL:          http://127.0.0.1:7000/
+Max requests:        7000
+Concurrency level:   1
+Agent:               none
+
+Completed requests:  7000
+Total errors:        0
+Total time:          37.0297437 s
+Requests per second: 189
+Mean latency:        5.2 ms
+
+Percentage of the requests served within a certain time
+ 50%      4 ms
+ 90%      6 ms
+ 95%      7 ms
+ 99%      11 ms
+100%      61 ms (longest request)
+
+-------------------------------------------------------
+
+Target URL:          http://127.0.0.1:8000/
+Max requests:        7000
+Concurrency level:   1
+Agent:               none
+
+Completed requests:  7000
+Total errors:        0
+Total time:          92.2280533 s
+Requests per second: 76
+Mean latency:        13.1 ms
+
+Percentage of the requests served within a certain time
+ 50%      11 ms
+ 90%      17 ms
+ 95%      23 ms
+ 99%      46 ms
+100%      156 ms (longest request)
